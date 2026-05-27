@@ -15,7 +15,7 @@
 | **Written On** | May 27, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/can-not-stay-away/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Can Not Stay Away](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/can-not-stay-away/) |
+| **Get License** | [License this song: Can Not Stay Away](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/can-not-stay-away/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> The quiet shadows settle in the starry night
+> I feel the rhythm rushing in the silver light
+> You wrap around my senses like a summer rain
+> I can not stay away, you pull me back again
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
