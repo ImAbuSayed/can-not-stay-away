@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Can Not Stay Away
+
+This log tracks the cryptographic history and versioning for the song **Can Not Stay Away** (can-not-stay-away).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-27T14:41:38.247556 | `v1` | `7cfed2c0642cb45fa47f928b4120bbfd48fa9ed221fcf1a062a709dc597335b0` | `3cfd329edbb119b3227692d6a8468705ed888536c1091fed86c1c70286ab4bcb` | `2026-05-27_can-not-stay-away-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

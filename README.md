@@ -15,7 +15,7 @@
 | **Written On** | May 27, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/can-not-stay-away/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Can Not Stay Away](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/can-not-stay-away/) |
+| **Get License** | [Commercial Licensing for Can Not Stay Away](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/can-not-stay-away/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `7cfed2c0642cb45fa47f928b4120bbfd48fa9ed221fcf1a062a709dc597335b0` |
 | **Timestamp** | May 27, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
